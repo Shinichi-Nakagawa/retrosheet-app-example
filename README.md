@@ -22,6 +22,14 @@ database_config.py.sampleをコピーしてdatabase_config.pyを作成、DB Serv
 
 ## example
 
-IPython notebookから使う場合の例を以下にあげます
+IPython notebookから使う場合の例です。
+
+IPython notebookに貼り付けて実行してみてください。
+
+### ジーターが引退した日のイチロー
+
+https://gist.github.com/Shinichi-Nakagawa/40d62bc8181dcd6b7ee4#file-ichiro_suzuki_atbat-py
+
+### 2014年イチローの打球傾向（円グラフ）
 
 https://gist.github.com/Shinichi-Nakagawa/ebfd3789a6c082d38519#file-ichiro_suzuki_batted_ball-py
